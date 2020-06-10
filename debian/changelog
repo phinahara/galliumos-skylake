@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 galliumos-skylake (3.0+dev3) bismuth; urgency=medium
 
   * Add supportfor installing within GaOS 2.1
@@ -18,6 +19,9 @@ galliumos-skylake (3.0+dev2) bismuth; urgency=medium
  -- bcarnes <bmcarnes@gmail.com>  Sun, 28 Jul 2019 19:21:19 +0000
 
 galliumos-skylake (3.0+dev1) bismuth; urgency=medium
+=======
+galliumos-skylake (3.1) bismuth; urgency=medium
+>>>>>>> upstream/master
 
   * bcarnes: suspend/resume: fix touchscreen and i2c kernel spew #6
   * bcarnes: sklnau8825adi: increase audio levels to ~0 dB #7
